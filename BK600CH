@@ -887,7 +887,7 @@ https://rotvonline.com/fk9f3vq/tracks-v1a1/mono.m3u8?token=6e8a27f95e8433f4d1ab0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
-https://rotvonline.com/eq7prrb/tracks-v1a1/mono.m3u8?token=3143109ea5ce96d63e13485fd36d3399e37acdf0-a25cfb3483cde48dd78b8d6ef77dead5-1757353394-1757342594
+https://rotvonline.com/eq7prrb/tracks-v1a1/mono.m3u8?token=75f90fd5831beb5d03fc161623cafb6ddbb7e414-5fc34afe4aa15ed21bf8c503dae3823d-1757354666-1757343866
 #EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/Prima_Sport_3_HD_29.png",PRIMA Sports 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
@@ -1004,3 +1004,474 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 #EXTVLCOPT:network-caching=1000
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+=========================================================================================================================
+####################################################   SPORT TWO  ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",WWE
+#EXTINF:-1 group-title="Wrestling"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/WWE_Battleground_Logo.png",WWE
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://tvmate.icu:8080/69NpyV/884735/11645
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",WWE 1
+#EXTINF:-1 group-title="Wrestling"tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/wwe.png",TNA Wrestling Channel
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",MMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/maxres.png" 
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",MMA Junkie
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",MMA PFL
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",Swerve Combat
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",MMA PFL
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",UFC
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",United Fight Alliance
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",HIFIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/HIFIGHT
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",ES: M+ DAZN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/228385.ts
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",ES: M+ DAZN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/228388.ts
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",ES: DAZN LALIGA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/320781.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="1" type="channel",DAZN 1
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="2" type="channel",DAZN 2
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="3" type="channel",DAZN 3
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="DAZN" ch-number="4" type="channel",DAZN 4
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",Bahrain Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Logo_RMC_Sport_1_2018.svg/revision/latest/scale-to-width-down/300?cb=20191012125536",RMC Sport 1
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.317
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/234481
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/300?cb=20191012132613",RMC Sport 2
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.318
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/116589
+#EXTINF:-1 group-title="กีฬาเจ็บๆ (SPORT TWO)",RMC Sport 3
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.319
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/292635
+=========================================================================================================================
+####################################################   Sport Asia  ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="กีฬา (Sports)",trueball thai 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬา (Sports)",trueball thai 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="กีฬา (Sports)" tvg-logo="http://103.114.203.129:8080/images/8941824e02fb40b863a8b7d303115ba3.png",PLAY SPORTS FOOTBALL 5
+https://keela2.com/stream/25/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬา (Sports)",PLAY SPORTS FOOTBALL 8
+#EXTINF:-1 group-title="กีฬา (Sports)" tvg-logo="http://103.114.203.129:8080/images/967c609cf4223d48b3d8e05e874f0f0f.png",PLAY SPORTS FOOTBALL 8
+http://103.114.203.129:8080/live/viptv/12345/51238.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 1 
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-1/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://switch.thaim3u.com/doodii-live/football-play-2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 2 
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-3/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 3 
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://switch.thaim3u.com/doodii-live/football-play-3/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/football-play-4/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 4 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://switch.thaim3u.com/doodii-live/football-play-4/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Sports Live 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-1/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Sports Live 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-2/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Sports Live 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-3/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)", Sports Live 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-4/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Sports Live 5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-5/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Sports Live 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-6/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Sports Live 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-7/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Sports Live 8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-8/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 9
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-9/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 10
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-10/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 11
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-11/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา (Sports)",Football Live 12
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siamsport-12/playlist.m3u8
+=========================================================================================================================
+####################################################   Sport Backup ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",ASTRO PREMIRE LEAGUE1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_SuperSport_1_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",ASTRO PREMIRE LEAGUE2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_SuperSport_2_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",ASTRO GRANSTAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",ASTRO BADMINTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",ASTRO ARENA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",ASTRO ARENA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_premier_league_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_action_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_Sports_Mix_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_golf_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_F1_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_Football_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_tennis_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT RACING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_Sports_Racing_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SKY SPORT CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_cricket_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Action UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Arena UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports F1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Football UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Golf UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium70/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports MIX UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports News UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium366/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Racing UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Sky Sports Tennis UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 1
+http://panel.sulu1.cc:2052/travis1/travis1/15135
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 2
+http://panel.sulu1.cc:2052/travis1/travis1/15134
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 3
+http://panel.sulu1.cc:2052/travis1/travis1/15133
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 4
+http://panel.sulu1.cc:2052/travis1/travis1/15130
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 5
+http://panel.sulu1.cc:2052/travis1/travis1/15129
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 6
+http://panel.sulu1.cc:2052/travis1/travis1/15128
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 7
+http://panel.sulu1.cc:2052/travis1/travis1/15127
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 8
+http://panel.sulu1.cc:2052/travis1/travis1/15126
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 9
+http://panel.sulu1.cc:2052/travis1/travis1/15125
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",EPL TV 10
+http://panel.sulu1.cc:2052/travis1/travis1/15124
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 1
+http://panel.sulu1.cc:2052/travis1/travis1/19276
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 2
+http://panel.sulu1.cc:2052/travis1/travis1/19275
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 3
+http://panel.sulu1.cc:2052/travis1/travis1/18939
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 4
+http://panel.sulu1.cc:2052/travis1/travis1/18936
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 5
+http://panel.sulu1.cc:2052/travis1/travis1/17471
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 6
+http://panel.sulu1.cc:2052/travis1/travis1/17470
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 7
+http://panel.sulu1.cc:2052/travis1/travis1/17464
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 8
+http://panel.sulu1.cc:2052/travis1/travis1/19969
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 9
+http://panel.sulu1.cc:2052/travis1/travis1/20385
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Optus Sport 10
+http://panel.sulu1.cc:2052/travis1/travis1/33349
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -1 Full HD
+http://panel.sulu1.cc:2052/travis1/travis1/86930
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -2 FHD
+http://panel.sulu1.cc:2052/travis1/travis1/86931
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -3 FHD
+http://panel.sulu1.cc:2052/travis1/travis1/86932
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -4 FHD
+http://panel.sulu1.cc:2052/travis1/travis1/86933
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -5 HD
+http://panel.sulu1.cc:2052/travis1/travis1/86934
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -6 FHD
+http://panel.sulu1.cc:2052/travis1/travis1/86935
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -7 FHD
+http://panel.sulu1.cc:2052/travis1/travis1/86936
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -8 FHD
+http://panel.sulu1.cc:2052/travis1/travis1/86937
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -9 FHD
+http://panel.sulu1.cc:2052/travis1/travis1/86938
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 1 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61470
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 2 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61471
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 3 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61472
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 4 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61473
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 5 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61474
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 6 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61475
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 7 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61476
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61477
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 8 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61478
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 9 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61479
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",DE: SKY SPORT BUNDESLIGA 10 720P
+http://norycdn.top:8080/47169803862200/31698038622129/61480
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Polsat Sport 1 Backup
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.302
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/668109
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Polsat Sport 2 Backup
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.303
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/668108
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Polsat Sport 3 Backup
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.302
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/668107
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",PRIMA SPORT 1 US
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.309
+http://panel.sulu1.cc:2052/travis1/travis1/15033
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",PRIMA SPORT 2 US
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.310
+http://panel.sulu1.cc:2052/travis1/travis1/15032
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",PRIMA SPORT 3 US
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.311
+http://panel.sulu1.cc:2052/travis1/travis1/15031
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",PRIMA SPORT 4 US
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.312
+http://panel.sulu1.cc:2052/travis1/travis1/15030
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",PRIMA SPORT 5 US
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.313
+http://panel.sulu1.cc:2052/travis1/travis1/15027
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",PRIMA SPORT 4 Backup
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.312
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/290219
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",PRIMA SPORT 5 Backup
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.313
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/290171
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Premier Sports 1
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.314
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/277101
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Premier Sports 2
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.315
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/277102
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Setanta Sport 1
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.324
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/416764
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",Setanta Sport 2
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.325
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/638078
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX SPORT 1
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-1/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX SPORT 2
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-2/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LIVE 1 FHD
+http://103.114.203.129:8080/live/viptv/12345/50279.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LIVE 1 720HD
+http://103.114.203.129:8080/live/viptv/12345/50280.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LIVE 2 HD720
+http://103.114.203.129:8080/live/viptv/12345/50397.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",AIS MONOMAX 3
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-3/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",AIS MONOMAX 4
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-4/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",AIS MONOMAX 5
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-5/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",AIS-MONOMAX 6
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-6/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LlIVE 7 HD720
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-7/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LIVE 8
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-8/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LIVE 9
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-9/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LIVE 10
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-10/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONOMAX LIVE 11
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-11/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONO Original
+http://103.114.203.129:8080/live/viptv/12345/18888.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONO PLUS
+http://103.114.203.129:8080/live/viptv/12345/1709.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  1
+https://2dbv5xfzxvchy1.friendswithbotharms.com/doodii-live/football-play-1/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  2
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-2/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  3
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-3/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  4
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-4/chunks.m3u8
