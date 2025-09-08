@@ -1,0 +1,1006 @@
+####################################################   Digital TV TH   ########################################################
+=========================================================================================================================
+#EXTM3U TV1.2+ Android 600CH
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)",Welcome M3UTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://github.com/lawlietza/BzK600TV.github.io/raw/refs/heads/lawlietza-logoTV-1/introREC.mp4
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0001.png",NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0014.png",TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://www.altv.tv/images/assets/logo.png",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://static.thaicom.io/ch/ch_262_20211117081017.png",T SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.png",TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",JKN18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Nation_TV_2014.png",Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/True4U2.png",True4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/b/bd/GMM_25_logo.svg/1200px-GMM_25_logo.svg.png",GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Channel_8_2024.svg/250px-Channel_8_2024.svg.png",ช่อง 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png",Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png",3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/1200px-Amarin_TV_HD_34_Logo.svg.png",Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+#EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",NBT 11 Central (BK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/topnew.png",TOP News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+=========================================================================================================================
+####################################################   NEW CHANEL  ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png",Fox Weather
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2048px-NHK_World.svg.png",NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/BBCNEWS.png",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/128.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/3017.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",CCTV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0123_1.png",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9d8sTjE7_Ak6XDGgNepbZ0AGUnc0skhSnUQCVGPvqVNQICxDCIGbKVYsJ&s=10",CBS News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/954px-Aljazeera_eng.svg.png",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9d8sTjE7_Ak6XDGgNepbZ0AGUnc0skhSnUQCVGPvqVNQICxDCIGbKVYsJ&s=10",CBS News (BK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="ข่าวต่างประเทศ (NEW TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",CNA (BK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+=========================================================================================================================
+####################################################   KIDS TV(Cartoons)  ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1200px-Cartoon_Network_logo_%281992-2010%29.svg.png",Cartoonetwork
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/55
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png", Boomerang HD TH (BK)
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=6uo79gtw&dl=0
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",Boom Cartoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://variety.com/wp-content/uploads/2013/02/angrybirds.jpg",Angry Birds Toons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://github.com/BONDdata/m3u8/raw/refs/heads/main/AngryBirdsToons.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png",cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/60
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Donald_Duck.png",Donald Duck
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://github.com/BONDdata/m3u8/raw/refs/heads/main/DonaldDuck.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Mr-bean-animated-episode-opening-card.PNG",Mr. Bean Cartoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8a3pVbhGPMOTTnNrgO8TpCWtZhGqFdX-BFA&s",Mr.Bean Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://github.com/BONDdata/m3u8/raw/refs/heads/main/Mr.BeanClassic.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Just_For_Laughs_%28UK_TV_series%29_Logo.jpg/250px-Just_For_Laughs_%28UK_TV_series%29_Logo.jpg",Just For Laughs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI1IDU6MTk6MjQgUE0maGFzaF92YWx1ZT11bmJVS0xIRXJ6UWg5cnYzc1VveG1RPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://toppng.com/uploads/preview/tom-and-jerry-logo-vector-11574206206mzup8qdjn3.png",Tom And Jerry
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://github.com/BONDdata/m3u8/raw/refs/heads/main/TomAndJerry.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://cdn.antaranews.com/cache/1200x800/2024/10/03/one-piece.jpg",One Piece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://i.pinimg.com/736x/79/43/5b/79435bc1f146595f601258b88276ca89.jpg",Naruto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://assets-prd.ignimgs.com/2022/07/27/pokemon-tv-button-1658954175299.jpg",Pokémon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/thumbnail.jpg",LEGO Kids TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://thepetcollective.com/cdn/shop/files/petcollectivelogo.jpg?v=1726086867",Pet Collective1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://dcassetcdn.com/design_img/855571/151606/151606_4974511_855571_image.png",PetClub TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://t3.ftcdn.net/jpg/02/23/48/44/360_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",KIDS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/amazing.png"",AMAZING
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://images.assetsdelivery.com/compings_v2/funnyvectorforyou/funnyvectorforyou2011/funnyvectorforyou201100023.jpg",Family TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-id="" tvg-name="ES: LINGO KIDS HD" tvg-logo="https://e7.pngegg.com/pngimages/539/354/png-clipart-lingokids-english-for-kids-learning-education-teacher-child-global-net-logo-blue-game-thumbnail.png" group-title="การ์ตูน (Cartoons)"ES: LINGO KIDS HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1082928.ts
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4I3MQpq_I9lZ2fJporKlIsFaxgt1cclGtgw&s,Zoo Moo (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)",Boom Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/72.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://f.ptcdn.info/453/018/000/1399004461-260px-o.jpg",อนิเมะการ์ตูน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/11041.m3u8
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://i.pinimg.com/564x/9a/d4/bc/9ad4bc5145ce8909043f299eb6a17ece.jpg",โคนัน วันพีซ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/15674.m3u8
+
+=========================================================================================================================
+####################################################   ENTERTAINMENT   ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/78
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/77
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBOHITS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3018
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBOSIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3660
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Fiamy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/5649
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUuygYIB0HMOHR1L3veEpXkh_xGJ7fza1cjSKJVMLWx81A.png" group-title="บันเทิง (ENTERTAINMENT)",ES: AXN HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1124765.ts
+#EXTINF:-1 tvg-id="Paramount Network.es" tvg-name="ES: PARAMOUNT NETWORK SD" tvg-logo="https://miguia.tv/channels/big_133.png" group-title="บันเทิง (ENTERTAINMENT)",ES: PARAMOUNT NETWORK SD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1130127.ts
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/warner-tv.png",WarnerTH
+http://103.114.203.129:8080/live/viptv/12345/74.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://kbsworldimage.kbs.co.kr/images/identity_img01.jpg",KbS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:network-caching=1000
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text.png",PING Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://i.ytimg.com/vi/dls9Ux2dLdo/maxresdefault.jpg",Premium Blockbuster
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/22882
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://image.pngaaa.com/429/3716429-middle.png",PLAYID HITS 2K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/15675
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/80
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/True_Film_Asia_2007.png",TRUE FILM ASIAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/70
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://f.ptcdn.info/630/082/000/s5lmjg1iv8pJ1H6zkOa92-o.png",TRUE THAI FILM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/64
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",True Film HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/67
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Mono_Plus.png",MONO PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/1709.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",Channel8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://image.makewebeasy.net/makeweb/m_1920x0/HSqZMq6g7/LOOXAround/photo.jpg",Cool Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",mounchontv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/11054.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)" tvg-logo="https://f.ptcdn.info/074/024/000/1412277760-1016921480-o.jpg",PLAYID รวมเป็นต่อ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/18876.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PLAYID HITS 2K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/15675
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PlayID MOVIE 2K/4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/17788.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PlayID ASIAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/17715.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PlayID Blockbuster
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/76.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PLAYID สยองขวัญ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/15672.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PlayID หนังพากย์ไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PlayID Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/17237.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PlayID Series พากย์ไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/17239.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PLAYID ซีรีย์`ไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/18833.m3u8
+#EXTINF:-1 group-title="บันเทิง (ENTERTAINMENT)",PlayID Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/9199.m3u8
+
+=========================================================================================================================
+####################################################   Discovery TV  ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/48
+#EXTINF:-1 tvg-id="" tvg-name="ES: BBC HISTORY HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Emblem.png" group-title="สาระคดี (Discovery TV)",ES: BBC HISTORY HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1105105.ts
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://logonoid.com/images/hgtv-logo.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://thaipbs-program.s3-ap-southeast-1.amazonaws.com/content/images/program-display-image/1/Ny/tt/1NyttbM8E9vo-default.jpg",Animal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Discovery_science.png",WSCI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://e7.pngegg.com/pngimages/543/233/png-clipart-discovery-channel-television-channel-television-documentary-television-show-others-television-blue-thumbnail.png",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/47
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="สาระคดี (Discovery TV)",ES: DISCOVERY CHANNEL HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/859786.ts
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://images.indihometv.com/logo_lifetime_small.png",Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/126
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png",TRUE_EXPLORE_Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/52
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Explore Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/49
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97MoCdU5dEnIISsufwXQXzvGbXei8LbZpDQ&s",ES: DMAX FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/321225.ts
+#EXTINF:-1 group-title="สาระคดี (Discovery TV)" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/11/cropped-Untitled-1-01-1-4.png",Animal Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/viptv/12345/15669
+
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" group-title="สาระคดี (Discovery TV)",ES: AXN WHITE HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1070893.ts
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="ES: BBC FOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBFOO.png" group-title="สาระคดี (Discovery TV)",ES: BBC FOOD HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1071587.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINE FEEL GOOD VERDI HD" tvg-logo="https://www.vamosaver.tv/wp-content/uploads/2021/02/verdi2.png" group-title="สาระคดี (Discovery TV)",ES: CINE FEEL GOOD VERDI HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1075098.ts
+
+=========================================================================================================================
+####################################################   SPORT TV ALL  ########################################################
+=========================================================================================================================
+
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DAZN_F1_2024_logo.svg/512px-DAZN_F1_2024_logo.svg.png",ES: DAZN FORMULA 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165257.ts
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",ES: DAZN FORMULA 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165419.ts
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://img.favpng.com/24/15/20/red-bull-tv-logo-television-red-bull-street-style-png-favpng-Q0YsjzNKDHqbxexk9HbmybuH4.jpg",Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg",Red Bull TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2
+#EXTVLCOPT:network-caching=1000
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREME SPORTS FHD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/WyuSKMe76BlqeUhrFKj8vEqT1etfm_mW.png" group-title="กีฬาทั่วไป (SPORT TV)",ES: EXTREME SPORTS FHD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/859205.ts
+
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://img.favpng.com/18/3/9/world-s-strongest-man-strongman-champions-league-sports-league-png-favpng-9KEFS4WRArjAVvn3980k7Kbqw.jpg",Strongman Champions League
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120518/Eurosport-1-HD.png",ES: EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/290349.ts
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png",ES: EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+#EXTVLCOPT:network-caching=1000
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/290352.ts
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://d1yr8cjvaju39m.cloudfront.net/uploads/images/Channel.png",Racing America (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sports-tv-logo.jpg",Sports TV (720p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/04/11124113/MTRSPT1-900x675.jpg",KCMN-LD6 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",NBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela3.com/stream/63/index.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_1_Poziome_2021.svg/1024px-Polsat_Sport_Premium_1_Poziome_2021.svg.png",Polsat Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_2_Poziome_2021.svg/2560px-Polsat_Sport_Premium_2_Poziome_2021.svg.png",Polsat Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=ts&play_token=DgdOW3zpRD
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png",Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a9/Prima_Sport_2_%282022-.n.v.%29.png",PRIMA Sport 2
+#EXTVLCOPT:https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8%20
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://media.foxadvertising.com/wp-content/uploads/2022/10/14134119/FOX-College-Football-Linear-Logo-Color.png",Fox Sports 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",NFL Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/330px-NFL_Network_logo.svg.png",NFL Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sky_Sport_News_HD_Logo_2016.png/960px-Sky_Sport_News_HD_Logo_2016.png?20171008012753",Sky Sports News HQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_news_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png",SKY SPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_premier_league_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png",SKY SPORT ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_action_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png",SKY SPORT MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_Sports_Mix_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png",SKY SPORT GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_golf_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png",SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_F1_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",SKY SPORT CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_cricket_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/2560px-Sky_Sports_Racing_logo_2020.svg.png",SKY SPORT RACING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_Sports_Racing_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rai_Sport_%2B_HD_-_Logo.svg/512px-Rai_Sport_%2B_HD_-_Logo.svg.png?20211130162748",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/05/BilliardTV-1024x576.png",Billiard TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://cdn-b2c.dom.ru/content/static/files/news/image/2021-09-01/vstrechayte-obnovlennye-versii-telekanalov-ligi-khl-i-khl-prime.jpg",KHL Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC Sport [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://www.lyngsat.com/logo/tv/num/4-sports-fr.png",4Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://vhx.imgix.net/horsetv/assets/e614747d-6466-41f9-805b-cb0cad07a8be-5b4b6162.jpg",HorseTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png",RACING TV
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.316
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=100
+http://panel.sulu1.cc:2052/travis1/travis1/1599
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png",Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)"tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/tsn.png",TSN1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)"tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/tsn.png",TSN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)"tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/tsn.png",TSN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)"tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/tsn.png",TSN4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)"tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/tsn.png",TSN5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/fishingTv.png",Fishing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/fishingTv.png",FISHING 2 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/fishingTv.png",WIRED 2 FISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/fishingTv.png",JUST FISHING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+
+=========================================================================================================================
+####################################################   SPORT ONE  ########################################################
+=========================================================================================================================
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",True Tennis HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/true-tennis/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://lospartidos.tv/images/streaming/logo-tennis-tv.png",TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/TENNIS
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png",SKY SPORT TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_tennis_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",beIN Sports 1 - beIN Sports 1 - Th
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN Sports 2 - beIN Sports 2 - Th
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/9/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",beIN Sports 3 - beIN Sports 3 - Th
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/10/index.m3u8?token=mvFWafOIir5JDlQN
+
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/800px-SPOTV_logo.svg.png",SPOTV 1 TH  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://2dbv5xfzxvchy1.friendswithbotharms.com/doodii-live/true-spotv-1/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png",Spotv2 TH 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://2dbv5xfzxvchy1.friendswithbotharms.com/doodii-live/true-spotv-2/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)"  tvg-logo="https://media.licdn.com/dms/image/v2/C5634AQF4oEzmbuYpXg/ugc-proxy-shrink_800/ugc-proxy-shrink_800/0/1646802004554?e=2147483647&v=beta&t=JYojxYAKd6Hd-LgBbZ-26Qnz59-Ao-pW-pBL6ShgJ0c",SPOTV1 Th (BKP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://dolive.thaim3u.com/doodii-live/true-spotv-1/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002//0-3x1.jpg?width=800",Spotv2 Th (BKP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://dolive.thaim3u.com/doodii-live/true-spotv-2/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv.png",True Sports 1/SPOTV2 - SPOTV2 - Th
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/18904
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",True Sport HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/17/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",True Sport HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/18/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",True Sport HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://mooseven.ddns.net:9090/memfs/1c3ad503-2c97-4157-8047-e1538bdc5f36.m3u8
+
+=========================================================================================================================
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" group-logo="https://pbs.twimg.com/profile_images/1935250570345881600/iSKRMOd8_400x400.jpg",MONOMAX SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-1/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" group-logo="https://pbs.twimg.com/profile_images/1935250570345881600/iSKRMOd8_400x400.jpg",MONOMAX SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-2/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" group-logo="https://pbs.twimg.com/profile_images/1935250570345881600/iSKRMOd8_400x400.jpg",MONOMAX LIVE 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/50279.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" group-logo="https://pbs.twimg.com/profile_images/1935250570345881600/iSKRMOd8_400x400.jpg",MONOMAX LIVE 1 720HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/50280.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" group-logo="https://pbs.twimg.com/profile_images/1935250570345881600/iSKRMOd8_400x400.jpg",MONOMAX LIVE 2 HD720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/50397.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",AIS MONOMAX 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-3/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",AIS MONOMAX 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-4/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",AIS MONOMAX 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-5/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",AIS-MONOMAX 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-6/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",MONOMAX LlIVE 7 HD720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-7/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",MONOMAX LIVE 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-8/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",MONOMAX LIVE 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-9/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",MONOMAX LIVE 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-10/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",MONOMAX LIVE 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-11/chunks.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",MONO Original
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+http://103.114.203.129:8080/live/viptv/12345/18888.m3u8
+
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",BEIN SPORTS ESPANAA HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORTS ESPANAA HD" tvg-logo="" group-title="กีฬาเด่น (SPORT ONE)",ES: BEIN SPORTS ESPANAA HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1081516.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORTS N HD" tvg-logo="" group-title="กีฬาเด่น (SPORT ONE)",ES: BEIN SPORTS N HD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1111074.ts
+
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",BEIN SPORTS EXTRA ESPANol HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+=========================================================================================================================
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",ASTRO Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela3.com/stream/35/index.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela3.com/stream/62/index.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sporttv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/31/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://i.postimg.cc/RhcqymGm/primasport1.png",PRIMA Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela3.com/stream/60/index.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/Prima_Sport_1_HD_29.png",PRIMA Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/fk9f3vq/tracks-v1a1/mono.m3u8?token=6e8a27f95e8433f4d1ab007fb80445bedf1c1b01-f5284735e8a9d2abdf2df2fd1560c2ba-1757346629-1757335829
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/Prima_Sport_2_HD_29.png",PRIMA Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/eq7prrb/tracks-v1a1/mono.m3u8?token=3143109ea5ce96d63e13485fd36d3399e37acdf0-a25cfb3483cde48dd78b8d6ef77dead5-1757353394-1757342594
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/Prima_Sport_3_HD_29.png",PRIMA Sports 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/q11mincc/tracks-v1a1/mono.m3u8?token=e60bc5b85dc22387d6933c6f22d672d19a717324-ae6895c5fa75d8e02826f0ad49f0c466-1757353462-1757342662
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/Prima_Sport_4_HD_29.png",PRIMA Sports 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/xw059/tracks-v1a1/mono.m3u8?token=5b69c0c7aa920affac4ac0b6e3d8e81072f580a3-b9be139359316d589ecfc5cb6ea1cf54-1757353333-1757342533
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/Prima_Sport_5_HD_29.png",PRIMA Sports 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/xeq4j0/tracks-v1a1/mono.m3u8?token=322dde958db90d0c5795b042d1093fc1564a9046-4d826ca07ef46108bb4d02b574d7c1d8-1757353278-1757342478
+=========================================================================================================================
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://deadline.com/wp-content/uploads/2025/08/espn-nfl-logos.jpg",NFL Network /ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/35/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",ESPN 1 N/L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sporttv4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/82/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sporttv6 / DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela3.com/stream/64/index.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sporttv / DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela2.com/stream/99/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sly Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://keela3.com/stream/48/index.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png",BEIN SPORT XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/1200px-BeIN_Sports_En_Espa%C3%B1ol.png",BEIN SPORT XTRA N ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/1200px-BeIN_Sports_En_Espa%C3%B1ol.png",BEIN SPORT XTRA N ESP (BK)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",TNT_Sport_1_FHD_50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/TNT_Sport_1_FHD_50/index.m3u8?token=5b0ad6a5c4104665000b44489fbc6c71
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",TNT_Sport_2_FHD_50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/TNT_Sport_2_FHD_50/index.m3u8?token=e92165fee3bf367fc9445b02bb010763
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",TNT_Sport_3_FHD_50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/TNT_Sport_3_FHD_50/index.m3u8?token=317bd18f73159e47cd56f33ec4f406b2
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Digi Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/pn4xdy6t3/tracks-v1a1/mono.m3u8?token=c32f60c1fdfee1f1672a3c830ac2ed829c9e8c73-c60253a9a087b9ddcc50620dfbb0bfe6-1757322028-1757311228
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Digi Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/rogttp/tracks-v1a1/mono.m3u8?token=b56f7a1b1b7efbbfa642b7c64768db4a88b971d3-904668be195d7095ffed553b3a0b1938-1757322058-1757311258
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Digi Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://rotvonline.com/96w254c/tracks-v1a1/mono.m3u8?token=94a84e57078ace558304975bd3e609e266c09084-0d84dce63dff9151162df0ec217b4e95-1757322268-1757311468
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png",Liverpool TV (LFCTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/LFCTV_HD/index.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/MUFC_FHD/index.m3u8?token=96c76678daf180fb36742f185c734675
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid TV 
+#EXTVLCOPT:network-caching=1000
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",FIFA+ (720p)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sony Ten Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sony Ten Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sony Ten Sports 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",Sony Ten Sports 5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",DubaiSports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
