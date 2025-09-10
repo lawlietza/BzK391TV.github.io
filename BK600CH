@@ -1,10 +1,6 @@
 ####################################################   Digital TV TH   ########################################################
 =========================================================================================================================
 #EXTM3U TV1.2+ Android 600CH (BK)
-#EXTINF:-1 group-title="ทีวีไทย (Thai TV)",Welcome M3UTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://github.com/lawlietza/BzK600TV.github.io/raw/refs/heads/lawlietza-logoTV-1/introREC.mp4
 #EXTINF:-1 group-title="ทีวีไทย (Thai TV)" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0001.png",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -926,7 +922,6 @@ https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-11/chunks.m3u8
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
 http://103.114.203.129:8080/live/viptv/12345/18888.m3u8
-
 #EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)",BEIN SPORTS ESPANAA HD
 #EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORTS ESPANAA HD" tvg-logo="" group-title="กีฬาเด่น (SPORT ONE)",ES: BEIN SPORTS ESPANAA HD
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1081516.ts
@@ -972,7 +967,7 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/277102
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
-https://rotvonline.com/q11mincc/tracks-v1a1/mono.m3u8?token=e60bc5b85dc22387d6933c6f22d672d19a717324-ae6895c5fa75d8e02826f0ad49f0c466-1757353462-1757342662
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/lawlietza/BzK600TV.github.io/refs/heads/lawlietza-logoTV-1/Prima_Sport_4_HD_29.png",PRIMA Sports 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
@@ -1553,7 +1548,5 @@ https://2dbv5xfzxvchy1.friendswithbotharms.com/doodii-live/football-play-1/chunk
 https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-2/chunks.m3u8
 #EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  3
 https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-3/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  4
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-4/chunks.m3u8
 #EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  4
 https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-4/chunks.m3u8
