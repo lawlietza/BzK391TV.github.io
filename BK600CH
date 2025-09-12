@@ -93,7 +93,6 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-
 =========================================================================================================================
 ####################################################   NEW CHANEL  ########################################################
 =========================================================================================================================
@@ -153,8 +152,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
 =========================================================================================================================
 ####################################################   KIDS TV(Cartoons)  ########################################################
 =========================================================================================================================
@@ -163,6 +160,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTVLCOPT:network-caching=1000
 http://150.129.9.194:8089/83/index.m3u8?token=test
 #EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",Nick Jr.
+#EXTVLCOPT:network-caching=1000
 http://150.129.9.194:8089/86/index.m3u8?token=test
 #EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang HD TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -170,12 +168,11 @@ http://150.129.9.194:8089/86/index.m3u8?token=test
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png", Boomerang HD TH (BK)
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-
 #EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",Boom Cartoon
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang-cartoon-th.png",Boom Cartoon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
@@ -187,7 +184,6 @@ https://github.com/BONDdata/m3u8/raw/refs/heads/main/AngryBirdsToons.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/60
-
 #EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://www.cinebox.co/images/logoLarge.png",Cinebox: Animation 
 #EXTVLCOPT:network-caching=1000
 http://1tv41.icu:8080/ahx4CN/815233/119420
@@ -269,10 +265,6 @@ http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1082928.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน (Cartoons)",Boom Anime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-http://103.114.203.129:8080/live/viptv/12345/72.m3u8
 #EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://f.ptcdn.info/453/018/000/1399004461-260px-o.jpg",อนิเมะการ์ตูน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -281,7 +273,6 @@ http://103.114.203.129:8080/live/viptv/12345/11041.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://103.114.203.129:8080/live/viptv/12345/15674.m3u8
-
 =========================================================================================================================
 ####################################################   ENTERTAINMENT   ########################################################
 =========================================================================================================================
