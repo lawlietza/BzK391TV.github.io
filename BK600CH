@@ -261,7 +261,7 @@ http://49.0.64.96:8007/AMAZING
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://e7.pngegg.com/pngimages/539/354/png-clipart-lingokids-english-for-kids-learning-education-teacher-child-global-net-logo-blue-game-thumbnail.png",ES: LINGO KIDS HD
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/1082928.ts
-#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4I3MQpq_I9lZ2fJporKlIsFaxgt1cclGtgw&s,Zoo Moo (1080p)
+#EXTINF:-1 group-title="การ์ตูน (Cartoons)" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",Zoo Moo (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
