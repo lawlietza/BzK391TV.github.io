@@ -647,7 +647,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
-https://keela3.com/stream/63/index.m3u8?token=J5iyZmyDDiw7NdQm
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
 #EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://unbeaten.com/assets/images/Unbeaten_Buffering.jpg",Unbeaten
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="กีฬาทั่วไป (SPORT TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_1_Poziome_2021.svg/1024px-Polsat_Sport_Premium_1_Poziome_2021.svg.png",Polsat Sport 1
@@ -850,22 +850,27 @@ http://103.179.182.117:6768/hls/2/2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
-https://2dbv5xfzxvchy1.friendswithbotharms.com/doodii-live/true-spotv-1/chunks.m3u8
+http://43.229.79.245:8080/live/MPLFREE/000000/218079.m3u8
 #EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png",SPOTV 2 TH 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
-https://2dbv5xfzxvchy1.friendswithbotharms.com/doodii-live/true-spotv-2/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)"  tvg-logo="https://media.licdn.com/dms/image/v2/C5634AQF4oEzmbuYpXg/ugc-proxy-shrink_800/ugc-proxy-shrink_800/0/1646802004554?e=2147483647&v=beta&t=JYojxYAKd6Hd-LgBbZ-26Qnz59-Ao-pW-pBL6ShgJ0c",SPOTV1 Th (BKP)
+http://43.229.79.245:8080/live/MPLFREE/000000/218081.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)"  tvg-logo="https://media.licdn.com/dms/image/v2/C5634AQF4oEzmbuYpXg/ugc-proxy-shrink_800/ugc-proxy-shrink_800/0/1646802004554?e=2147483647&v=beta&t=JYojxYAKd6Hd-LgBbZ-26Qnz59-Ao-pW-pBL6ShgJ0c",SPOTV1 (BK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
-https://dolive.thaim3u.com/doodii-live/true-spotv-1/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002//0-3x1.jpg?width=800",Spotv2 Th (BKP)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002//0-3x1.jpg?width=800",SPOTV 2(BK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:network-caching=1000
-https://dolive.thaim3u.com/doodii-live/true-spotv-2/chunks.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)"  tvg-logo="https://media.licdn.com/dms/image/v2/C5634AQF4oEzmbuYpXg/ugc-proxy-shrink_800/ugc-proxy-shrink_800/0/1646802004554?e=2147483647&v=beta&t=JYojxYAKd6Hd-LgBbZ-26Qnz59-Ao-pW-pBL6ShgJ0c",SPOTV1 Th
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:network-caching=1000
+https://ww.dooballfree.vip/live/spotv/playlist.m3u8
 #EXTINF:-1 group-title="กีฬาเด่น (SPORT ONE)" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv.png",True Sports 1/SPOTV2 - SPOTV2 - Th
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
@@ -1542,56 +1547,6 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/382363
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.263
 #EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/382364
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 01
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e106.hellotherepadawan.org/v5/AX1qNc_4-4YL9vcRMvVtGw/1756820756/0c97fa64d36e19348bb46d25cd9d737e/GY-NHBu_LuZx9PYjiYoQQA/1756831436/live/dx-origin/dooball66-max01_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 02
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e101.hellotherepadawan.org/v5/qh3QYCpGG1Kjc0guWhaMvg/1756821038/eb79b2290aed13cdd693ebbf408b324d/-rhb83XC_NFQLGWsqErQrg/1756831718/live/dx-origin/dooball66-max02_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 03
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e110.hellotherepadawan.org/v5/AO2b5gK8npE5qr08AJEJjg/1757226501/88f690d08a216778391c3547557b28fd/Yc6q5Du2k6WHd9dOtnDJaA/1757237181/live/dx-origin/dooball66-max03_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 04
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e108.hellotherepadawan.org/v5/syWG4VxrqfSRcLtLnCYy3Q/1757330179/88f690d08a216778391c3547557b28fd/HSup63PW4V8vUfkUESW0HA/1757340859/live/dx-origin/dooball66-max04_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 05
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e113.hellotherepadawan.org/v5/cetkx1DG7bXfsJAI7xQaVQ/1756821673/0c97fa64d36e19348bb46d25cd9d737e/auY4WR8DNWOeC3AY9skTuA/1756832353/live/dx-origin/dooball66-max05_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 06
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e113.hellotherepadawan.org/v5/8iNi8VAmd1LCwms4w3fYKA/1756821902/0c97fa64d36e19348bb46d25cd9d737e/S1ArSgXbkQuz7NkculcAnA/1756832582/live/dx-origin/dooball66-max06_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 07
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e106.hellotherepadawan.org/v5/tjU9Of4VbjVDH-SgphEzqA/1756822102/eb79b2290aed13cdd693ebbf408b324d/gp0vqnqLLW9y8JoXxw5Kjw/1756832782/live/dx-origin/dooball66-max07_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 08
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e112.hellotherepadawan.org/v5/7ZS8BsLzVk9ENBmbmw7WOQ/1756822297/0c97fa64d36e19348bb46d25cd9d737e/pvGsrcB_omasxVvBMKzCjA/1756832977/live/dx-origin/dooball66-max08_720/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)"MAX Stream 09
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/ip7Dx7321VbMGxEfg4U3_w/1757084935/43ed1ca42239984fc828353440519446/L-ZuG6LIfJg7h3Hu0hRoiw/1757095615/live/dx-origin/th-monomax09_720/playlist.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",MAX Stream 10
-#EXTVLCOPT:http-referrer=https://dookeela.live/	
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://e101.hellotherepadawan.org/v5/lGRRT0J-TD1_qQV7c37vFg/1757389947/f64d0f2cf4c4f5f40364d71ecd080b39/KcM7vQKhZoslKoPkT6_ttQ/1757400627/live/lx-origin/th-monomax10_720/chunks.m3u8
 #EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -1 Full HD
 http://panel.sulu1.cc:2052/travis1/travis1/86930
 #EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",|FR| DAZN LEAGUE1 -2 FHD
@@ -1675,119 +1630,218 @@ https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-3/chunks.m3u8
 #EXTINF:-1 group-title="กีฬาช่องสำรอง (Sport Backup)",SPORT LIVE  4
 https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-4/chunks.m3u8
 ======================================================================================
-#EXTINF:-1 group-title="(MONOMAX SPORT)" group-logo="https://pbs.twimg.com/profile_images/1935250570345881600/iSKRMOd8_400x400.jpg",MONOMAX 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 1
 #EXTVLCOPT:network-caching=1000
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/216585.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 2
 #EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax01eng_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX SPORT 1
+http://43.229.79.245:8080/live/MPLFREE/000000/216586.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 3
 #EXTVLCOPT:network-caching=1000
-https://e113.hellotherepadawan.org/v5/z3tPPmX8hM_KjR9RBP-OLQ/1757771446/061f5dbb53df5fd7fe9319006064c221/kSFLjmwTNnV6GR6sy_dB3g/1757782126/live/dx-origin/th-monomax08_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX LIVE 1 720HD
+http://43.229.79.245:8080/live/MPLFREE/000000/216587.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 4
 #EXTVLCOPT:network-caching=1000
-http://103.114.203.129:8080/live/viptv/12345/50280.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)" group-logo="https://pbs.twimg.com/profile_images/1935250570345881600/iSKRMOd8_400x400.jpg",MONOMAX 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/216588.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 5
 #EXTVLCOPT:network-caching=1000
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/216589.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 6
 #EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax02eng_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX SPORT 2
+http://43.229.79.245:8080/live/MPLFREE/000000/216590.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 7
 #EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-2/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX LIVE 2 HD720
+http://43.229.79.245:8080/live/MPLFREE/000000/216591.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 8
 #EXTVLCOPT:network-caching=1000
-http://103.114.203.129:8080/live/viptv/12345/50397.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/216592.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 9
 #EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-1/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/216593.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",MAX SPORTS 10
 #EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax03eng_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/216594.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MONOMAX LIVE 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max1.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 1 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max01.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max02.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 2 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max03.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max04.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 3 สำรอง
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max05.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max5.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max6.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max7.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max8.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max9.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max10.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 9
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max11.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 10
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max12.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 11
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max13.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 12
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max14.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 13
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max15.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 14
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max16.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 15
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max17.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B", MAX EVENT 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max18.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",AISPLAY SPORTS 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",AISPLAY SPORTS 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",BALLTHAI 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",BALLTHAI 10
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",BALLTHAI 11
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",SPORTs 1-A
 #EXTVLCOPT:network-caching=1000
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/218054.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",SPORTs 2-A
 #EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax04eng_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/218057.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",SPORTs 3-A
 #EXTVLCOPT:network-caching=1000
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/218060.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",SPORTs 5-A
 #EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax05eng_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 6
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://43.229.79.245:8080/live/MPLFREE/000000/218066.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",SPORTs 7-A
 #EXTVLCOPT:network-caching=1000
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 6
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax06eng_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:network-caching=1000
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:network-caching=1000
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax07eng_720/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX LlIVE 7 HD720
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-7/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX LIVE 8
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-8/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX LIVE 9
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-9/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX LIVE 10
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-10/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",MONOMAX LIVE 11
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-11/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",AIS MONOMAX 3
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-3/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",AIS MONOMAX 4
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-4/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",AIS MONOMAX 5
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-5/chunks.m3u8
-#EXTINF:-1 group-title="(MONOMAX SPORT)",AIS-MONOMAX 6
-#EXTVLCOPT:network-caching=1000
-https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/siam-6/chunks.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONO Original
-http://103.114.203.129:8080/live/viptv/12345/18888.m3u8
-#EXTINF:-1 group-title="กีฬาช่องสำรอง (MONOMAX SPORT สำรอง)",MONO PLUS
-http://103.114.203.129:8080/live/viptv/12345/1709.m3u8
+http://43.229.79.245:8080/live/MPLFREE/000000/218069.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",truesports 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",truesports 2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",truesports 3
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",truesports 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",truesports 5
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",truesports 7
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 3
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein4/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 5
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein5/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 6
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein6/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 7
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein7/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 8
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein8/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา" tvg-logo="https://via.placeholder.com/512.png?text=TV%2B",บีอินสปอตส์ 9
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein9/playlist.m3u8
 =========================================================================================================================
 ####################################################   Movie Mix ########################################################
 =========================================================================================================================
